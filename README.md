@@ -9,7 +9,7 @@ Current Projects Available:
 
     MARCA -- Android application that reads FIPS 201 SmartCards.
 
-If you are interested in using this software please send an email to <insert email address> to request access to the source code.
+If you are interested in using this software please send an email to {insert email address} to request access to the source code.
 
 Thanks,
   
